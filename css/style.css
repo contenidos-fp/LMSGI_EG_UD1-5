@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+
+@charset "UTF-8";
+[data-toggle=collapse] i:before {
+  content: "";
+}
+
+
+
+.parrafo{
+ font-family: Roboto;
+ letter-spacing: 0px;
+  word-spacing: normal; 
+  line-height: 1.2; 
+ font-size: 20px;
+ color:#010101;
+ text-align: justify;
+ margin-left: 15px;
+ margin-right: 15px;
+ padding-left: 0;
+ padding-right: 0;}
+
+
+
+
+
+
+
+
+
+
+@media screen and (max-width:564px){.parrafo{font-size:18px; margin-left: 5px; margin-right: 5px;}
+
+@media screen and (max-width:418px){.parrafo{font-size:14px;margin-left: 0px; margin-right: 0px;}
+
+
+
+
